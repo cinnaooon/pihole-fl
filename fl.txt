@@ -1,6 +1,6 @@
 0.0.0.0 dns.google
-0.0.0.0 .history.google.com
-0.0.0.0 .kidsmanagement-pa.googleapis.com
+0.0.0.0 history.google.com
+0.0.0.0 kidsmanagement-pa.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 android.apis.google.com
