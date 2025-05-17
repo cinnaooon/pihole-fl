@@ -1,3 +1,12 @@
-kidsmanagement-pa.googleapis.com
-mtalk.google.com
-googleapis.com
+0.0.0.0 *dns.google
+0.0.0.0 *.history.google.com
+0.0.0.0 *.kidsmanagement-pa.googleapis.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 *android.apis.google.com
+0.0.0.0 *device-provisioning.googleapis.com
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 kidsmanagement-pa.clients6.google.com
+0.0.0.0 kidsmanagement-pa.googleapis.com
+0.0.0.0 mtalk.google.com
+0.0.0.0 googleapis.com
